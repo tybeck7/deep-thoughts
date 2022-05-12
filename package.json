@@ -1,7 +1,7 @@
 {
   "name": "mern-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoiVHlsZXIiLCJlbWFpbCI6InRlc3QzQHRlc3QuY29tIiwiX2lkIjoiNjI3ZDZiZDNhY2M0YmEyODhmOTY3Nzc0In0sImlhdCI6MTY1MjM4Njc3MiwiZXhwIjoxNjUyMzkzOTcyfQ.dN9fwTb_fg94JMtigKP1jOkQbgpinkLmH75wBg9wOeo\"",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tybeck7/deep-thoughts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tybeck7/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/tybeck7/deep-thoughts#readme"
 }
